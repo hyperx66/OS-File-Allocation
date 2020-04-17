@@ -1,5 +1,7 @@
 # UOG_File_Allocation
 
+Code Language: C
+
 This project aims to demonstrate the 3 types of File Allocation
 
 1) Indexed File Allocation
